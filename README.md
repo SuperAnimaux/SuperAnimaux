@@ -3,8 +3,8 @@
 I am a french high school student that love computer science and cybersecurity.
 
 ## Programming Language 🧑‍💻
-![image](https://github.com/user-attachments/assets/38731403-ce9f-49d3-9da5-8fc7223fe65e)
-![image](https://github.com/user-attachments/assets/161153f8-f19a-4fec-9155-ac7abe09e17b)
+- Python 🐍
+- Lua
 
 ## Awards and competition 🏆
 
