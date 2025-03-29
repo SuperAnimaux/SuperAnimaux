@@ -25,7 +25,7 @@ I am a french high school student that love computer science and cybersecurity.
 * Ethical Hacker for the Ile-de-France region as part of the "Hack Ton Lycée ethically" contest. (October 28, 2024 - November 01, 2024)
 
 ## Root-Me profile
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=SuperAnimaux&gstats=show&style=midnight)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=superanimaux1&gstats=show&style=midnight)
 
 <!--
 **SuperAnimaux/SuperAnimaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
