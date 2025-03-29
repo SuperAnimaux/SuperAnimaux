@@ -3,26 +3,29 @@
 I am a french high school student that love computer science and cybersecurity.
 
 ## Programming Language 🧑‍💻
-- Python 🐍
-- Lua
+* Python 🐍 (main)
+* Lua
 
 ## Awards and competition 🏆
 
-- CyberChampion of the ile-de-France region. 🖥️
-- I took part in the CTF of the French Cyberdefense Command 🔐
-- PicoCTF 2025: Team Cyber Focus
+* CyberChampion of the ile-de-France region. 🖥️
+* I took part in the CTF of the French Cyberdefense Command 🔐
+* PicoCTF 2025: Team Cyber Focus
 
 ## Current Projects 🗃️
 
-None (comming soon)
+* SysDiag (coming soon)
 
 ## degrees and certifications 🎓
 
-- SensCyber certification
+* SensCyber certification
 
 ## professional experiences 🧑‍💼
 
-- Ethical Hacker for the Ile-de-France region as part of the "Hack Ton Lycée ethically" contest. (October 28, 2024 - November 01, 2024)
+* Ethical Hacker for the Ile-de-France region as part of the "Hack Ton Lycée ethically" contest. (October 28, 2024 - November 01, 2024)
+
+## Root-Me profile
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=SuperAnimaux&style=midnight)
 
 <!--
 **SuperAnimaux/SuperAnimaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
