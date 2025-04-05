@@ -22,7 +22,7 @@ I am a french high school student that love computer science and cybersecurity.
 
 ## professional experiences 🧑‍💼
 
-* Ethical Hacker for the Ile-de-France region as part of the "Hack Ton Lycée ethically" contest. (October 28, 2024 - November 01, 2024)
+* Ethical Hacker for the Ile-de-France region as part of the "Hack Ton Lycée" contest. (October 28, 2024 - November 01, 2024)
 
 ## Root-Me profile
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=SuperAnimaux-927865&gstats=show&style=midnight)
